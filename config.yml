@@ -1,6 +1,6 @@
 author:
-  name: Erwan Normand
-baseURL: https://example.com
+  name: Troy Cherasaro
+baseURL: /
 languageCode: en
 menu:
   main:
@@ -8,5 +8,5 @@ menu:
       url: /about
 params:
   description: Example site for the Hugo's Blogpaper theme
-title: Blogpaper
+title: Troy Cherasaro
 theme: Blogpaper
