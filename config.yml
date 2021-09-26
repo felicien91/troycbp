@@ -6,6 +6,8 @@ menu:
   main:
     - name: About
       url: /about
+    - name: Another
+      url: /another-page
 params:
   description: Example site for the Hugo's Blogpaper theme
 title: Troy Cherasaro
